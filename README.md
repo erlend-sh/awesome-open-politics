@@ -13,7 +13,6 @@ A list of open source or otherwise open platforms aimed at improving politics.
 - http://aktivdemokrati.se/
 - http://www.democracylab.org/
 - [Enspiral](https://enspiral.org/)
-- [Cobudget](http://cobudget.co/#/) (Now rebranding under an org called GreaterThan)
 - [Airesis](https://github.com/coorasse/Airesis)
 - [Democracy OS](https://www.democracyos.org/)
 - [Conscious Consumers](https://consciousconsumers.nz/)
