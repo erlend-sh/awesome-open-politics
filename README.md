@@ -25,3 +25,4 @@ A list of open source or otherwise open platforms aimed at improving politics.
 - https://dcentproject.eu
 - https://github.com/DemocracyEarth/
 - http://www.rushkoff.com/books/open-source-democracy/
+- https://www.citizens.is/
